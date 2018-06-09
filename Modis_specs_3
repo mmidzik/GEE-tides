@@ -1,0 +1,19 @@
+# PRIMARY INPUT OUTPUT FIELDS
+ifile=/Users/mayamidzik/Desktop/GEE_MODIS_color/A2005021185000.L1B_LAC
+geofile=/Users/mayamidzik/Desktop/GEE_MODIS_color/A2005021185000.geo
+ofile=/Users/mayamidzik/Desktop/GEE_MODIS_color/A2005021185000.L2_LAC_OC
+
+# SUITE
+suite=OC
+
+# PRODUCTS
+l2prod=Lw_748 Lw_vvv Rrs_748 Rrs_vvv bbp_488_qaa bbp_531_qaa bbp_547_qaa bbp_555_qaa chl_oc3 chl_oc4 chlor_a flh nLw_748 nLw_vvv nflh
+
+# SUBSETTING OPTIONS
+north=30.2401
+south=25.1652
+east=-81.8042
+west=-84.9463
+
+# ANCILLARY INPUTS  Default = climatology (select 'Get Ancillary' to download ancillary files)
+
